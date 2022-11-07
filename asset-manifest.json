@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://oluwaseunoa.github.io/csb-h1074v/static/js/main.2f1a1aca.chunk.js",
+    "main.js.map": "https://oluwaseunoa.github.io/csb-h1074v/static/js/main.2f1a1aca.chunk.js.map",
+    "runtime-main.js": "https://oluwaseunoa.github.io/csb-h1074v/static/js/runtime-main.d271df6f.js",
+    "runtime-main.js.map": "https://oluwaseunoa.github.io/csb-h1074v/static/js/runtime-main.d271df6f.js.map",
+    "static/js/2.824d600c.chunk.js": "https://oluwaseunoa.github.io/csb-h1074v/static/js/2.824d600c.chunk.js",
+    "static/js/2.824d600c.chunk.js.map": "https://oluwaseunoa.github.io/csb-h1074v/static/js/2.824d600c.chunk.js.map",
+    "index.html": "https://oluwaseunoa.github.io/csb-h1074v/index.html",
+    "precache-manifest.79c834e82e75abca3e6b0ff4185b9bb6.js": "https://oluwaseunoa.github.io/csb-h1074v/precache-manifest.79c834e82e75abca3e6b0ff4185b9bb6.js",
+    "service-worker.js": "https://oluwaseunoa.github.io/csb-h1074v/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d271df6f.js",
+    "static/js/2.824d600c.chunk.js",
+    "static/js/main.2f1a1aca.chunk.js"
+  ]
+}
